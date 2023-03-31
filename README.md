@@ -3,9 +3,8 @@
 0. **Mezozoic**  (_in progress_)
   _deploy_: https://istairina-mezosoic-rs2023q1.netlify.app/  
   _repo:_ https://github.com/istairina/RSS-React2023Q1  
-  _stack:_  
-    Front: ReactJS + TS, React Router  
-    Testing: Vitest  
+  _stack:_ Front: ReactJS + TS, React Router  
+  _test_: Vitest  
 
  1. **Videochat**  
   _deploy_: https://pik-chat.onrender.com/  
